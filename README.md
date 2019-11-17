@@ -1,7 +1,4 @@
-# Atmega328p-standalone
-How to use atmega328p-pu without arduino board (make your own board)
+Project was moved: https://gitlab.com/Basilisvirus/atmega328p-standalone
+due to: https://techhx.com/2019/07/28/github-bans-accounts-of-devs-from-countries-on-the-u-s-trade-sanctions-list/
 
-
-[![stand2.png](https://i.postimg.cc/cHP2fS66/stand2.png)](https://postimg.cc/34CtHzXH)
-
-[![standalone.png](https://i.postimg.cc/NMKZyMsW/standalone.png)](https://postimg.cc/hzq26K7r)
+thank you microsoft for ruining github :D
